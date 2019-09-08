@@ -1,0 +1,15 @@
+# Data Analysis Placebo vs Treatment 
+
+Difference in reaction time for two groups:
+  - Placebo
+  - Treatment (Panortaxin)
+  
+Analysis performed with t-test between condition and gender. 
+
+
+Graphical representation:
+    - Reaction-Time with standard error for gender
+    - Scatter-plot (normality/linearity)
+    - Reaction-Time with standard error for condition
+    - Coefficient of correlation between Condition and Reaction-Time
+    - Reaction Time for both condition accross trials
